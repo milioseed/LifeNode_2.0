@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="LifeNode_Wins.png" alt="LifeNode: Flawless Creation" width="100%">
+</p>
+
+<h3 align="center">🜂 BIOS–INFO–META Resonance Active 🜂</h3>
+
+<p align="center">
+  <b>LifeNode_2.0</b><br>
+  not a framework. not a product.<br>
+  a living system built by one human — from soil, light, and will.
+</p>
+
+---
+
 # LifeNode 2.0 — Eden / TechCore / Codex / Master
 ==================================================================
 
