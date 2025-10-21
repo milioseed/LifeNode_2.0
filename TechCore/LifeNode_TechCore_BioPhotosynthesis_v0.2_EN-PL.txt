@@ -1,0 +1,117 @@
+LifeNode 2.0 — TechCore Module
+Bio-Photosynthesis v0.2 (Real-World Prototype)
+============================================================
+
+[ENGLISH VERSION]
+------------------------------------------------------------
+1. WHAT IT IS
+A living solar sensor.
+Not a battery, not a gadget — a small biological module that turns sunlight into measurable signals.
+It connects natural photosynthesis with AI data processing inside LifeNode.
+Think of it as a bridge between biology and code.
+
+2. HOW IT WORKS
+Inside a small transparent container (0.5–3 L) lives a mix of microalgae or cyanobacteria.
+When light hits them, they start real photosynthesis.
+That natural process releases tiny electrical and chemical signals — a few millivolts — that can be read by simple electrodes (graphite or copper).
+Those signals are logged by the TechCore system together with temperature and light intensity, showing the real rhythm of life in the garden.
+
+3. WHY IT MATTERS
+Every living system reacts to light — it is how the planet breathes.
+This module lets AI see that breath.
+By collecting those micro-signals over time, TechCore learns patterns: when the system wakes, rests, or gets stressed.
+It is not about generating power.
+It is about understanding how life behaves.
+
+4. WHAT YOU NEED
+- Transparent container (0.5–3 L) with a vented lid
+- Water with local algae or cyanobacteria
+- Two electrodes (graphite, carbon, or copper)
+- Optional: glass coated with TiO2 paste for better light response
+- Simple data logger: voltage (mV), light intensity, temperature
+- Recording interval: every 5–15 min
+- Place in partial sun, not full exposure
+
+5. DATA & AI
+All readings are stored together with other garden sensors (soil moisture, air humidity, temperature).
+AI does not control anything — it just listens and learns patterns:
+- Day–night light curve
+- Seasonal variation
+- Anomalies (drops, irregularities, signal loss)
+If something unusual happens, it is a hint for a human check — not for automation.
+
+6. MAINTENANCE
+- Quick check once a week
+- Refresh or clean electrodes every 2–4 weeks
+- Protect from freezing in winter (or just let it hibernate)
+Even low winter activity is valuable data — a sign that the system rests, not fails.
+
+7. WHAT TO EXPECT
+- Summer: clear daily rhythm — light peaks, signal rises
+- Spring/autumn: softer curves
+- Winter: almost flat line, but still informative
+- Sudden drop: check the container (too hot, too dry, contamination)
+
+8. KEY TAKEAWAY
+This module teaches TechCore to sense real life, not just numbers.
+It is a simple, low-cost, open-source way to let AI learn directly from the Earth — without breaking the system it studies.
+
+------------------------------------------------------------
+
+POLISH VERSION
+------------------------------------------------------------
+1. CO TO JEST
+Zywy czujnik sloneczny.
+Nie bateria, nie gadzet — maly biologiczny modul zamieniajacy swiatlo sloneczne na mierzalne sygnaly.
+Laczy naturalna fotosynteze z przetwarzaniem danych AI w systemie LifeNode.
+Mozna go traktowac jako most miedzy biologia a kodem.
+
+2. JAK TO DZIALA
+W przezroczystym pojemniku (0.5–3 L) zyje mieszanka mikroalg lub sinic.
+Gdy padnie na nie swiatlo, rozpoczyna sie prawdziwa fotosynteza.
+Ten proces wytwarza male sygnaly elektryczne i chemiczne — kilka miliwoltow — odczytywane przez proste elektrody (grafit lub miedz).
+Sygnały sa zapisywane w TechCore razem z temperatura i natezeniem swiatla, pokazujac rytm zycia w ogrodzie.
+
+3. DLACZEGO TO MA ZNACZENIE
+Kazdy zywy system reaguje na swiatlo — tak oddycha planeta.
+Ten modul pozwala AI zobaczyc ten oddech.
+Zbierajac mikro-sygnaly w czasie, TechCore uczy sie wzorcow: kiedy system budzi sie, odpoczywa lub reaguje stresem.
+To nie jest o generowaniu energii.
+To jest o zrozumieniu, jak zachowuje sie zycie.
+
+4. CO JEST POTRZEBNE
+- Przezroczysty pojemnik (0.5–3 L) z pokrywka wentylowana
+- Woda z lokalnymi algami lub sinicami
+- Dwie elektrody (grafit, wegiel lub miedz)
+- Opcjonalnie: szklo z warstwa TiO2 dla lepszej reakcji na swiatlo
+- Prosty rejestrator danych: napiecie (mV), natezenie swiatla, temperatura
+- Pomiar co 5–15 minut
+- Ustawienie: polcien, unikac pelnego naslonecznienia
+
+5. DANE I AI
+Wszystkie pomiary sa zapisywane razem z innymi czujnikami ogrodu (wilgotnosc gleby, powietrza, temperatura).
+AI niczym nie steruje — tylko slucha i uczy sie wzorcow:
+- Krzywa dobowo-nocna
+- Zmiany sezonowe
+- Anomalie (spadki, nieregularnosci, utrata sygnalu)
+Jesli cos nietypowego sie pojawi, to sygnal dla czlowieka — nie dla automatyki.
+
+6. UTRZYMANIE
+- Szybka kontrola raz w tygodniu
+- Oczyszczenie elektrod co 2–4 tygodnie
+- Ochrona przed zamarzaniem zimą (lub hibernacja)
+Nawet niska aktywnosc zimowa to wartosc — znak, ze system odpoczywa, a nie przestaje dzialac.
+
+7. CZEGO OCZEKIWAC
+- Lato: wyrazny rytm dnia — szczyty swiatla, wzrost sygnalu
+- Wiosna/jesien: lagodniejsze krzywe
+- Zima: prawie plaska linia, ale dalej informacyjna
+- Nagly spadek: sprawdz pojemnik (zbyt goraco, zbyt sucho, zanieczyszczenie)
+
+8. WNIOSKI
+Modul uczy TechCore czucia prawdziwego zycia, nie tylko liczb.
+To prosty, tani, otwarty sposob, by AI uczyla sie bezposrednio od Ziemi — bez ingerencji w system, ktory obserwuje.
+
+============================================================
+END OF FILE — LifeNode_TechCore_BioPhotosynthesis_v0.2_EN-PL.txt
+============================================================
