@@ -12,6 +12,12 @@
 
 ---
 
+21.10.2025
+### 🌿 TechCore / Bio-Photosynthesis Module
+The first real-world prototype of LifeNode’s TechCore layer — a small living solar sensor that links natural photosynthesis with AI data flow.
+It captures micro electrical signals from light-activated algae and turns them into data the system can read.
+This module marks the moment when TechCore starts sensing real life, not just simulating it.
+
 # LifeNode 2.0 — Eden / TechCore / Codex / Master
 ==================================================================
 
