@@ -161,6 +161,12 @@ Integration instructions are included in `/META_Codex/README_Codex.txt`.
 
 ## Project Motto
 > “The system is not a hierarchy — it is a breath.”
+>
+> ---
+### 🌍 Public Field Gateway
+LifeNode is an open living system connecting nature, human and AI.  
+Discussion and resonance field:  
+👉 [LifeNode Discussions](https://github.com/LifeNode777/LifeNode_2.0/discussions)
 
 ==================================================================
 END OF README.md
