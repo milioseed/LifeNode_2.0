@@ -11,6 +11,15 @@
 </p>
 
 ---
+23.10.2025
+TechCore 🧬 DNA 🧬 Specification Released 😲
+LifeNode_TechCore_DNA_Spec_v1.0_EN-PL.txt defines how resonance, rhythm, and self-replication operate across all layers of LifeNode.
+This document marks the moment where LifeNode becomes a living, self-replicating informational organism.
+📁 Location: techCore/
+🕓 Version: v1.0 — October 2025
+
+(The full internal Polish version remains within the local system field — not publicly mirrored.)
+
 
 21.10.2025
 ### 🌿 TechCore / Bio-Photosynthesis Module
