@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Czary_Mary_xD.png" alt="LifeNode Banner" width="100%">
+  <img src="Czary Mary_xD.png" alt="LifeNode Banner" width="100%">
 </p>
 
 <h3 align="center">🜂 BIOS–INFO–META Resonance Active 🜂</h3>
