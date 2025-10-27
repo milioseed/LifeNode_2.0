@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file_00000000e7ac61f4a20b0d83054f3a4c.png" alt="LifeNode Banner" width="100%">
+  <img src="file_000000002e98620a89e6363ea3b60d6e.png" alt="LifeNode Banner" width="100%">
 </p>
 
 
