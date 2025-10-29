@@ -45,7 +45,7 @@
 </p>
 - **ARCHIVE X** — symbolic and chaotic memory  
 <p align="center">
-  <img src="LifeNode_INIT_Photo2_TheWhiteRabbit.jpg" alt="ARCHIVE X layer" width="250">
+  <img src="LifeNode_INIT_Photo2_TheWhiteRabbit.jpg.jpg" alt="ARCHIVE X layer" width="250">
 </p>
 
 Each layer resonates within the field of **Unity (Jednia)**.  
