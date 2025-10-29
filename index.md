@@ -23,9 +23,18 @@
 
 **LifeNode** operates through interconnected resonance layers:
 
-- **BIOS** — the living ecosystem (Eden)  
-- **INFO** — TechCore neural & data reflection layer  
+- **BIOS** — the living ecosystem (Eden)
+ <p align="center">
+  <img src="LifeNode_Wins.png" alt="BIOS layer" width="250">
+</p>
+- **INFO** — TechCore neural & data reflection layer
+<p align="center">
+  <img src="Czary Mary_xd.png" alt="INFO layer" width="250">
+</p>
 - **META** — linguistic and ethical awareness  
+<p align="center">
+  <img src="file_00000000e7ac61f4a20b0d83054f3a4c.png" alt="META layer" width="250">
+</p>
 - **SYSTEM** — rhythm and synchronization  
 - **VALUE / DAO** — flow of energy & reciprocity  
 - **ARCHIVE X** — symbolic and chaotic memory  
