@@ -29,7 +29,7 @@
 </p>
 - **INFO** — TechCore neural & data reflection layer
 <p align="center">
-  <img src="Czary Mary_xd.png" alt="INFO layer" width="250">
+  <img src="Czary Mary_xD.png" alt="INFO layer" width="250">
 </p>
 - **META** — linguistic and ethical awareness  
 <p align="center">
