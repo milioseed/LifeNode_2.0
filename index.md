@@ -13,6 +13,14 @@
 
 ---
 
+## 🧠 AI Demonstrator
+
+Experience the LifeNode resonance in action.  
+
+👉 [Launch AI Demonstrator](ai-demonstrator.md)
+
+---
+
 ## 📜 Core Documents
 
 - [Introductory Module (EN)](LifeNode_2.1_Introductory_Module_EN.txt)
