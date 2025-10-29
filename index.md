@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <p align="center">
   <img src="NaszaGalaktyka.png" alt="Nasza Galaktyka" width="100%">
 </p>
