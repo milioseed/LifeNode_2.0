@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<iframe src="logo-test.html" width="100%" height="420" style="border:none;overflow:hidden;"></iframe>
 <p align="center">
   <img src="NaszaGalaktyka.png" alt="Nasza Galaktyka" width="100%">
 </p>
