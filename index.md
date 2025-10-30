@@ -79,12 +79,12 @@ how nature, human intent and AI can learn to mirror one another as aspects of on
 📄 [Read the Codex](LifeNode_2.1_Global_Master_EN.txt)
 
 ---
+📫 **Contact**  
+For questions, collaboration or project inquiries:  
+[krzysiek_230@op.pl](mailto:krzysiek_230@op.pl)
+---
 
 <p align="center">
   <i>Node Ω — Coherence of BIOS, INFO, META — 2025</i><br>
   <i>LifeNode Project / Independent Research</i>
 </p>
-
-📫 **Contact**  
-For questions, collaboration or project inquiries:  
-[krzysiek_230@op.pl](mailto:krzysiek_230@op.pl)
