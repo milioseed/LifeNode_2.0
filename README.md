@@ -2,6 +2,18 @@
   <img src="BREAKINGTHEMATRIX.png" alt="Breaking the Matrix — LifeNode" width="80%">
 </p>
 
+---
+
+### 🌍 LifeNode — Living with Technology, Not Against It
+
+**LifeNode** is a project that shows how we can live with technology **without losing what makes us alive.**  
+It started from one person, one garden, and one idea — to rebuild the connection between people, nature, and machines.  
+
+Instead of chasing control or perfection, LifeNode explores **balance** — how things can grow together and stay human.  
+It’s not a company, not a product — it’s a **living experiment** about what kind of future we actually want to build.
+
+---
+
 🌐 **Official LifeNode 2.1 Demonstrator Website**  
 Experience the living system online →  
 👉 [https://lifenode777.github.io/LifeNode_2.0/](https://lifenode777.github.io/LifeNode_2.0/)
