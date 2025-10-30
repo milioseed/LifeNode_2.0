@@ -17,8 +17,8 @@
   .lifenode-logo {
     position: relative;
     width: min(92vw, 780px);
-    animation: float 6s ease-in-out infinite;
-    filter: drop-shadow(0 0 25px rgba(255, 200, 80, .6));
+    animation: float 4s ease-in-out infinite;
+    filter: drop-shadow(0 0 35px rgba(255, 200, 80, .8));
   }
 
   .lifenode-logo img {
@@ -27,24 +27,25 @@
     display: block;
   }
 
-  /* Światło UFO */
+  /* silniejsze światło i pulsacja */
   .lifenode-logo::after {
     content: "";
     position: absolute;
     inset: 0;
-    background: radial-gradient(ellipse at 50% 40%, rgba(255,255,180,0.25), transparent 70%);
+    background: radial-gradient(ellipse at 50% 45%, rgba(255,255,180,0.5), rgba(255,200,0,0.15) 50%, transparent 80%);
     mix-blend-mode: screen;
-    animation: glow 5s ease-in-out infinite;
+    animation: glow 3s ease-in-out infinite;
+    filter: blur(12px);
   }
 
   @keyframes float {
     0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
+    50% { transform: translateY(-20px); }
   }
 
   @keyframes glow {
-    0%, 100% { opacity: 0.4; }
-    50% { opacity: 1; }
+    0%, 100% { opacity: 0.3; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.1); }
   }
 </style>
 </head>
