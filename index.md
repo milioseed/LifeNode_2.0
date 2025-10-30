@@ -12,13 +12,7 @@
 </p>
 
 ---
-
-## 🧠 AI Demonstrator
-
-Experience the LifeNode resonance in action.  
-
-👉 [Launch AI Demonstrator](ai-demonstrator.md)
-
+### [⚡ Launch AI Demonstrator](ai-demonstrator.md)
 ---
 
 ## 📜 Core Documents
