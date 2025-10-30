@@ -12,7 +12,7 @@
 </p>
 
 ---
-### [⚡ Launch AI Demonstrator](ai-demonstrator.md)
+### [⚡ Launch AI Demonstrator](ai-demonstrator.html)
 ---
 
 ## 📜 Core Documents
