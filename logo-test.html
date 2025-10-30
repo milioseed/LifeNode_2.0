@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LifeNode Logo Test</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Orbitron, system-ui, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .lifenode-logo {
+      position: relative;
+      width: min(92vw, 780px);
+      margin: 40px auto 60px;
+      filter: drop-shadow(0 0 12px rgba(255, 200, 80, .35));
+    }
+
+    .lifenode-logo img {
+      width: 100%;
+      height: auto;
+      display: block;
+      animation: logoFloat 7s ease-in-out infinite;
+    }
+
+    /* delikatne oddechy światła */
+    .lifenode-logo::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: radial-gradient(ellipse at 50% 35%, rgba(255, 220, 140, .18), transparent 70%);
+      mix-blend-mode: screen;
+      animation: logoGlow 6s ease-in-out infinite;
+    }
+
+    /* refleks promienia nad UFO */
+    .beam-reflex {
+      position: absolute;
+      top: 35%;
+      left: 50%;
+      width: 80%;
+      height: 30%;
+      transform: translateX(-50%);
+      background: radial-gradient(circle, rgba(255,255,200,0.25) 0%, rgba(255,255,200,0.05) 50%, transparent 80%);
+      filter: blur(18px);
+      opacity: 0.6;
+      animation: beamPulse 5s ease-in-out infinite;
+    }
+
+    /* animacje */
+    @keyframes logoFloat {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(4px); }
+    }
+
+    @keyframes logoGlow {
+      0%, 100% { opacity: .45; transform: translateX(-50%) scaleY(1); }
+      50% { opacity: .9; transform: translateX(-50%) scaleY(1.04); }
+    }
+
+    @keyframes beamPulse {
+      0%, 100% { opacity: .45; transform: translateX(-50%) scaleY(1); }
+      50% { opacity: .9; transform: translateX(-50%) scaleY(1.04); }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="lifenode-logo">
+    <img src="LifeNodeLogo.png" alt="LifeNode Logo – From Chaos to GitHub">
+    <div class="beam-reflex"></div>
+  </div>
+
+  <h1>LifeNode Logo Animation Test</h1>
+  <p>Jeśli wszystko działa — UFO lekko pulsuje, promień oddycha światłem 🔆</p>
+  <p>Potem możemy przenieść to bezpośrednio na główną stronę.</p>
+</body>
+</html>
