@@ -12,7 +12,7 @@
 </p>
 
 ---
-### [⚡ Launch AI Demonstrator](ai-demonstrator.html)
+[⚡ Launch AI Demonstrator](https://lifenode777.github.io/LifeNode_2.0/ai-demonstrator.html)
 ---
 
 ## 📜 Core Documents
