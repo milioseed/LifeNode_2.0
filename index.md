@@ -1,104 +1,67 @@
-<link rel="stylesheet" href="style.css">
-<div class="logo-wrap">
-  <div class="halo"></div>
-  <div class="ufo"></div>
-  <div class="beam"></div>
-  <div class="figure"></div>
-  <div class="shadow"></div>
+<!-- FINAL LIFE NODE LOGO -->
+<div class="lifenode-logo">
+  <img src="LifeNodeLogo.png" alt="LifeNode Logo — From Chaos to GitHub">
+  <div class="beam-reflex"></div>
 </div>
 
 <style>
-.logo-wrap {
+.lifenode-logo {
   position: relative;
-  width: 240px;
-  height: 200px;
-  margin: 0 auto 2rem auto;
-  filter: drop-shadow(0 0 8px #ffcc33);
+  width: min(92vw, 780px);
+  margin: 26px auto 20px;
+  filter: drop-shadow(0 0 12px rgba(255,200,80,.35));
 }
 
-/* Halo glow behind */
-.halo {
+/* obrazek logo */
+.lifenode-logo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  animation: logoFloat 7s ease-in-out infinite;
+}
+
+/* delikatne oddychanie światła */
+.lifenode-logo::after {
+  content: "";
   position: absolute;
-  top: 40px;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse at 50% 35%, rgba(255,220,140,.18), transparent 70%);
+  mix-blend-mode: screen;
+  animation: logoGlow 6s ease-in-out infinite;
+}
+
+/* refleks promienia nad UFO */
+.beam-reflex {
+  position: absolute;
+  top: 35%;
   left: 50%;
-  width: 200px;
-  height: 200px;
+  width: 80%;
+  height: 30%;
   transform: translateX(-50%);
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(255,180,70,0.25) 0%, rgba(0,0,0,0) 80%);
-  animation: haloPulse 6s ease-in-out infinite;
-}
-
-/* UFO */
-.ufo {
-  width: 120px;
-  height: 40px;
-  background: radial-gradient(circle at center, #ffe97f 0%, #ffb800 40%, rgba(255,184,0,0) 70%);
-  border-radius: 50%;
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  box-shadow: 0 0 15px rgba(255,200,100,0.4);
-  animation: float 3.5s ease-in-out infinite;
-}
-
-/* Light beam */
-.beam {
-  width: 70px;
-  height: 150px;
-  background: linear-gradient(to bottom, rgba(255,255,200,0.55), rgba(255,255,150,0.1) 80%);
-  position: absolute;
-  top: 40px;
-  left: 50%;
-  transform: translateX(-50%);
-  border-radius: 30px;
-  filter: blur(1px);
-  animation: pulse 4s ease-in-out infinite;
-}
-
-/* Figure in beam */
-.figure {
-  width: 16px;
-  height: 44px;
-  background: #ffebc2;
-  position: absolute;
-  bottom: 12px;
-  left: 50%;
-  transform: translateX(-50%);
-  border-radius: 8px;
-  box-shadow: 0 0 14px #ffd36b;
-}
-
-/* Ground shadow */
-.shadow {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 80px;
-  height: 12px;
-  background: radial-gradient(ellipse at center, rgba(255,200,100,0.3), transparent 70%);
-  transform: translateX(-50%) scaleY(0.4);
-  filter: blur(6px);
+  background: radial-gradient(circle, rgba(255,255,200,0.25) 0%, rgba(255,255,200,0.05) 50%, transparent 80%);
+  filter: blur(18px);
   opacity: 0.6;
+  animation: beamPulse 5s ease-in-out infinite;
 }
 
-/* Animations */
-@keyframes float {
-  0%, 100% { transform: translate(-50%, 0); }
-  50% { transform: translate(-50%, 10px); }
+/* animacje */
+@keyframes logoFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(4px); }
 }
 
-@keyframes pulse {
-  0%, 100% { opacity: 0.6; }
-  50% { opacity: 1; }
+@keyframes logoGlow {
+  0%, 100% { opacity: .25; }
+  50% { opacity: .65; }
 }
 
-@keyframes haloPulse {
-  0%, 100% { opacity: 0.4; transform: translateX(-50%) scale(1); }
-  50% { opacity: 0.8; transform: translateX(-50%) scale(1.05); }
+@keyframes beamPulse {
+  0%, 100% { opacity: 0.45; transform: translateX(-50%) scaleY(1); }
+  50% { opacity: 0.9; transform: translateX(-50%) scaleY(1.04); }
 }
 </style>
+
 <p align="center">
   <img src="NaszaGalaktyka.png" alt="Nasza Galaktyka" width="100%">
 </p>
