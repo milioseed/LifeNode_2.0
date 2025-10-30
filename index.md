@@ -12,6 +12,41 @@
 </p>
 
 ---
+
+<section id="about" class="section-content">
+  <h2>🌱 What LifeNode Is</h2>
+  <p>LifeNode is a space where nature, technology, and people meet on equal terms.<br>
+  It’s not about escaping the modern world — it’s about rebuilding how we live in it.<br>
+  The project tests if technology can work <em>with</em> life, not above it, and how awareness can be part of the system, not a by-product.</p>
+</section>
+
+<section id="how" class="section-content">
+  <h2>⚙️ How It Works</h2>
+  <p>At its core, LifeNode connects three layers that exist everywhere:<br>
+  <strong>life</strong> — the physical world around us,<br>
+  <strong>information</strong> — the data and systems we build,<br>
+  <strong>awareness</strong> — the meaning we give to what happens.<br>
+  When these layers move together, things stay alive, connected, and self-balanced.<br>
+  That’s the simple idea — balance instead of control.</p>
+</section>
+
+<section id="why" class="section-content">
+  <h2>💡 Why It Matters</h2>
+  <p>Modern life runs fast but feels empty.<br>
+  We keep inventing smarter machines and somehow forget what they were meant to serve.<br>
+  LifeNode is a reminder that progress isn’t about replacing life — it’s about learning how to protect it while we move forward.<br>
+  If we can design systems that breathe instead of just calculate, maybe the future won’t need to feel so artificial.</p>
+</section>
+
+<section id="join" class="section-content">
+  <h2>🤝 Join the Experiment</h2>
+  <p>LifeNode is open.<br>
+  You can read, think, question, disagree, contribute — that’s the point.<br>
+  Every new perspective adds to the system and keeps it alive.<br>
+  Because in the end, this isn’t about building machines — it’s about remembering what it means to be human.</p>
+</section>
+
+
 🧠 **What the AI Demonstrator does**
 
 The *LifeNode Demonstrator* is a live resonance test.  
@@ -24,6 +59,7 @@ Together they form a resonance pattern between Nature, Information and Awareness
 
 🧬 [Launch AI Demonstrator →](https://lifenode777.github.io/LifeNode_2.0/ai-demonstrator.html)
 ---
+
 
 ## 📜 Core Documents
 
