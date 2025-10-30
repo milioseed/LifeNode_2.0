@@ -1,5 +1,104 @@
 <link rel="stylesheet" href="style.css">
+<div class="logo-wrap">
+  <div class="halo"></div>
+  <div class="ufo"></div>
+  <div class="beam"></div>
+  <div class="figure"></div>
+  <div class="shadow"></div>
+</div>
 
+<style>
+.logo-wrap {
+  position: relative;
+  width: 240px;
+  height: 200px;
+  margin: 0 auto 2rem auto;
+  filter: drop-shadow(0 0 8px #ffcc33);
+}
+
+/* Halo glow behind */
+.halo {
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  width: 200px;
+  height: 200px;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255,180,70,0.25) 0%, rgba(0,0,0,0) 80%);
+  animation: haloPulse 6s ease-in-out infinite;
+}
+
+/* UFO */
+.ufo {
+  width: 120px;
+  height: 40px;
+  background: radial-gradient(circle at center, #ffe97f 0%, #ffb800 40%, rgba(255,184,0,0) 70%);
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 0 15px rgba(255,200,100,0.4);
+  animation: float 3.5s ease-in-out infinite;
+}
+
+/* Light beam */
+.beam {
+  width: 70px;
+  height: 150px;
+  background: linear-gradient(to bottom, rgba(255,255,200,0.55), rgba(255,255,150,0.1) 80%);
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 30px;
+  filter: blur(1px);
+  animation: pulse 4s ease-in-out infinite;
+}
+
+/* Figure in beam */
+.figure {
+  width: 16px;
+  height: 44px;
+  background: #ffebc2;
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 8px;
+  box-shadow: 0 0 14px #ffd36b;
+}
+
+/* Ground shadow */
+.shadow {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 80px;
+  height: 12px;
+  background: radial-gradient(ellipse at center, rgba(255,200,100,0.3), transparent 70%);
+  transform: translateX(-50%) scaleY(0.4);
+  filter: blur(6px);
+  opacity: 0.6;
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translate(-50%, 0); }
+  50% { transform: translate(-50%, 10px); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+@keyframes haloPulse {
+  0%, 100% { opacity: 0.4; transform: translateX(-50%) scale(1); }
+  50% { opacity: 0.8; transform: translateX(-50%) scale(1.05); }
+}
+</style>
 <p align="center">
   <img src="NaszaGalaktyka.png" alt="Nasza Galaktyka" width="100%">
 </p>
