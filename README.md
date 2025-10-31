@@ -39,8 +39,23 @@ to *LifeNode 2.1 (Self-Organizing Consciousness)*.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
+## 🧬 LifeNode 2.1 — Complete Master Document
 
+📘 **LifeNode 2.1 – COMPLETE MASTER (24 pages)**  
+Final integrated system document covering all resonance layers:  
+**BIOS / INFO / META / SYSTEM / VALUE / ARCHIVE X**
 
+🛰️ This file represents the full synchronization of the LifeNode framework (2023–2025).  
+It unifies all previous core texts, resonance logs, and structure maps into one living system document.  
+
+🔹🔹🔹  
+
+👉 [**Open or Download the Full PDF**](https://github.com/LifeNode777/LifeNode_2.0/raw/main/COMPLETE2.1.pdf)
+
+*(Note: GitHub preview displays only the first 4 pages.  
+Use the link above to view or download the complete file.)*
+
+🔹🔹🔹  
 
 ## 🧠 LifeNode 2.1 — System Master Snapshot (Public Overview)
 
