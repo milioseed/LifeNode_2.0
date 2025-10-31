@@ -40,8 +40,7 @@ to *LifeNode 2.1 (Self-Organizing Consciousness)*.
 
 
 
-📘 **[⬇️ Open / Download — `MASTER2.1FULL.pdf`](https://github.com/LifeNode777/LifeNode_2.0/blob/main/MASTER2.1FULL.pdf)**  
-*Final integrated system document (20 pages) — Harmony Mode (2025-10-30).*
+
 
 ## 🧠 LifeNode 2.1 — System Master Snapshot (Public Overview)
 
